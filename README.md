@@ -2,10 +2,10 @@
 
 Este repositorio contiene la evaluación final de uno de los módulos realizados en el bootcamp de Adalab. 
 
-Podemos encontrar diferentes archivos:
+En el podemos encontrar diferentes archivos:
 
 Un par de **csv** con información sobre los clientes, de una compañía aérea canadiense, en relación a sus reservas, tarjetas de fidelidad, etc. Aquí hemos recogido un listado descriptivo de los datos que vamos a encontrar:
-- *Loyalty Number*: Número de lealtad, posiblemente un identificador único para cada cliente.
+- *Loyalty Number*: Número de lealtad, es un identificador único para cada cliente.
 - *Country*: País del cliente.
 - *Province*: Provincia o estado del cliente.
 - *City*: Ciudad del cliente.
@@ -14,13 +14,13 @@ Un par de **csv** con información sobre los clientes, de una compañía aérea 
 - *Education*: Nivel educativo del cliente.
 - *Salary*: Salario del cliente.
 - *Marital Status*: Estado civil del cliente.
-- *Loyalty Card*: Tarjeta de lealtad, indica si el cliente tiene una tarjeta de lealtad.
-- *CLV (Customer Lifetime Value)*: Valor del cliente a lo largo del tiempo, una métrica que representa el valor total que un cliente aporta a lo largo de su relación con la empresa.
-- *Enrollment Type*: Tipo de inscripción o registro del cliente.
+- *Loyalty Card*: Tipo de tarjeta de lealtad.
+- *CLV (Customer Lifetime Value)*: Valor del cliente a lo largo del tiempo.
+- *Enrollment Type*: Tipo de inscripción del cliente.
 - *Enrollment Year*: Año de inscripción del cliente.
 - *Enrollment Month*: Mes de inscripción del cliente.
-- *Cancellation Year*: Año de cancelación (si aplica).
-- *Cancellation Month*: Mes de cancelación (si aplica).
+- *Cancellation Year*: Año de cancelación.
+- *Cancellation Month*: Mes de cancelación.
 - *Year*: Año de la transacción o registro.
 - *Month*: Mes de la transacción o registro.
 - *Flights Booked*: Número de vuelos reservados.
