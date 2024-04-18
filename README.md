@@ -4,7 +4,9 @@ Este repositorio contiene la evaluación final de uno de los módulos realizados
 
 En el podemos encontrar diferentes archivos:
 
-Un par de **csv** con información sobre los clientes, de una compañía aérea canadiense, en relación a sus reservas, tarjetas de fidelidad, etc. Aquí hemos recogido un listado descriptivo de los datos que vamos a encontrar:
+Un par de **csv** con información sobre los clientes, de una compañía aérea canadiense, en relación a sus reservas, tarjetas de fidelidad, etc. 
+
+Aquí hemos recogido un listado descriptivo de los datos que vamos a encontrar:
 - *Loyalty Number*: Número de lealtad, es un identificador único para cada cliente.
 - *Country*: País del cliente.
 - *Province*: Provincia o estado del cliente.
