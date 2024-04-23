@@ -1,10 +1,8 @@
-# Evaluación Final 
+# Airline
 
-Este repositorio contiene la evaluación final de uno de los módulos realizados en el bootcamp de Adalab. 
+En este proyecto se analizaronn un conjunto de datos relacionados con clientes de una aerolínea canadiense, abordando tareas de exploración inicial, limpieza, visualización y análisis estadístico de los datos. El objetivo era responder preguntas planteadas por el cliente sobre la distribución de vuelos reservados, la relación entre la distancia de los vuelos y los puntos acumulados, y evaluar si existían diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes.
 
-En el podemos encontrar diferentes archivos:
-
-Un par de **csv** con información sobre los clientes, de una compañía aérea canadiense, en relación a sus reservas, tarjetas de fidelidad, etc. 
+El repositorio contiene un par de **csv** con información sobre los clientes, de una compañía aérea canadiense, en relación a sus reservas, tarjetas de fidelidad, etc. 
 
 Aquí hemos recogido un listado descriptivo de los datos que vamos a encontrar:
 - *Loyalty Number*: Número de lealtad, es un identificador único para cada cliente.
@@ -33,8 +31,7 @@ Aquí hemos recogido un listado descriptivo de los datos que vamos a encontrar:
 - *Points Redeemed*: Puntos canjeados por el cliente.
 - *Dollar Cost Points Redeemed*: Costo en dólares de los puntos canjeados por el cliente.
 
-
-Y, también encontramos, un **notebook de jupyter** que da respuesta a los siguientes ejercicios:
+Y, también encontramos, un **notebook de jupyter** que sigue los siguientes pasos:
 
 ## Fase 1: Exploración y Limpieza
 1. **Exploración Inicial:**
@@ -45,6 +42,7 @@ Y, también encontramos, un **notebook de jupyter** que da respuesta a los sigui
 - Elimina o trata los valores nulos, si los hay, en las columnas clave para asegurar que los datos estén completos.
 - Verifica la consistencia y corrección de los datos para asegurarte de que los datos se presenten de forma coherente.
 - Realiza cualquier ajuste o conversión necesaria en las columnas (por ejemplo, cambiar tipos de datos) para garantizar la adecuación de los datos para el análisis estadístico.
+  
 ## Fase 2: Visualización
 - Usando las herramientas de visualización que has aprendido durante este módulo, contesta a las siguientes gráficas usando la mejor gráfica que consideres:
     1. ¿Cómo se distribuye la cantidad de vuelos reservados por mes durante el año?
@@ -53,6 +51,7 @@ Y, también encontramos, un **notebook de jupyter** que da respuesta a los sigui
     4. ¿Cómo se compara el salario promedio entre los diferentes niveles educativos de los clientes?
     5. ¿Cuál es la proporción de clientes con diferentes tipos de tarjetas de fidelidad?
     6. ¿Cómo se distribuyen los clientes según su estado civil y género?
+
 ## Fase 3: Evaluación de Diferencias en Reservas de Vuelos por Nivel Educativo
 **Objetivo del Ejercicio:** Utilizando un conjunto de datos que hemos compartido, se busca evaluar si existen diferencias significativas en el número de vuelos reservados según el nivel educativo de los clientes. Para ello, los pasos que deberas seguir son:
 1. Preparación de Datos:
